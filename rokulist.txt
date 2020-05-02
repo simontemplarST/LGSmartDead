@@ -1,0 +1,22 @@
+#Roku Blocklist
+#Works in PFBlockerNG and on Pi-Hole
+#Added to list by Cameron Heard
+#Original list by u/Sachz on Reddit. Thanks dude.
+
+
+127.0.0.1 ads.roku.com
+127.0.0.1 austin.logs.roku.com
+127.0.0.1 cooper.logs.roku.com
+127.0.0.1 giga.logs.roku.com
+127.0.0.1 griffin.logs.roku.com
+127.0.0.1 liberty.logs.roku.com
+127.0.0.1 littlefield.logs.roku.com
+127.0.0.1 logs.roku.com
+127.0.0.1 midlands.logs.roku.com
+127.0.0.1 mobile.logs.roku.com
+127.0.0.1 paolo.logs.roku.com
+127.0.0.1 scribe.logs.roku.com
+127.0.0.1 sugarland.logs.roku.com
+127.0.0.1 tyler.logs.roku.com
+127.0.0.1 victoria.logs.roku.com
+127.0.0.1 windsor.logs.roku.com
