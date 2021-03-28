@@ -1,7 +1,7 @@
 #Roku Blocklist
 #Works in PFBlockerNG and on Pi-Hole
-#Added to list by Cameron Heard
-#Original list by u/Sachz on Reddit. Thanks dude.
+#yeeted many hours into looking at my pi-hole. 
+#gib thanks pls <3
 
 
 127.0.0.1 ads.roku.com
@@ -20,3 +20,49 @@
 127.0.0.1 tyler.logs.roku.com
 127.0.0.1 victoria.logs.roku.com
 127.0.0.1 windsor.logs.roku.com
+127.0.0.1 roku.ad-score.com
+127.0.0.1 roku2.ad-score.com
+127.0.0.1 roku.hostedcart.buysellads.com
+127.0.0.1 ads.roku.com
+127.0.0.1 delta.ads.roku.com
+127.0.0.1 delta-staging.ads.roku.com
+127.0.0.1 i.ads.roku.com
+127.0.0.1 identity.ads.roku.com
+127.0.0.1 identity-dev.ads.roku.com
+127.0.0.1 identity-internal.ads.roku.com
+127.0.0.1 identity-internal-dev.ads.roku.com
+127.0.0.1 p.ads.roku.com
+127.0.0.1 cloudservices.roku.com
+127.0.0.1 samples.voice.cti.roku.com
+127.0.0.1 logs.roku.com
+127.0.0.1 amarillo.logs.roku.com
+127.0.0.1 austin.logs.roku.com
+127.0.0.1 bryan.logs.roku.com
+127.0.0.1 camden.logs.roku.com
+127.0.0.1 cooper.logs.roku.com
+127.0.0.1 digdug.logs.roku.com
+127.0.0.1 digdug-g2.logs.roku.com
+127.0.0.1 esp.logs.roku.com
+127.0.0.1 giga.logs.roku.com
+127.0.0.1 gilbert.logs.roku.com
+127.0.0.1 griffin.logs.roku.com
+127.0.0.1 hereford.logs.roku.com
+127.0.0.1 lagrange.logs.roku.com
+127.0.0.1 liberty.logs.roku.com
+127.0.0.1 littlefield.logs.roku.com
+127.0.0.1 longview.logs.roku.com
+127.0.0.1 midland.logs.roku.com
+127.0.0.1 mobile.logs.roku.com
+127.0.0.1 paolo.logs.roku.com
+127.0.0.1 richmond.logs.roku.com
+127.0.0.1 rollingwood.logs.roku.com
+127.0.0.1 scribe.logs.roku.com
+127.0.0.1 sugarland.logs.roku.com
+127.0.0.1 tyler.logs.roku.com
+127.0.0.1 victoria.logs.roku.com
+127.0.0.1 windsor.logs.roku.com
+127.0.0.1 traces.sr.roku.com
+127.0.0.1 track.sr.roku.com
+127.0.0.1 amoeba-plus.web.roku.com
+127.0.0.1 customer-feedbacks.web.roku.com
+127.0.0.1 wwwimg.roku.com
